@@ -45,7 +45,7 @@ window.onload = function() {
                 replyMessage.innerHTML = '<img src="bot-avatar.jpg" alt="Avatar"/><p>我用夸克网盘给你分享了「ios教程」，点击链接或复制整段内容，打开「夸克APP」即可获取。/~66e839j7Pk~/ 链接：https://pan.quark.cn/s/e74f672e0db4</p>';
             } else {
                 replyMessage.innerHTML = '<img src="bot-avatar.jpg" alt="Avatar"/><p>提取码咨询Q群客服。</p>''
-                    <img src="bot-avatar.jpg" alt="Avatar"/><p>提取码咨询。<。<'<img s            chat.scrollTop = chat.scrollHeight;
+                    <img src="bot-avatar.jpg" alt="Avatar"/><p>提取码咨询Q群客服。<。<'<img s            chat.scrollTop = chat.scrollHeight;
         };
         chat.appendChild(messageDiv);
     });

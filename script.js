@@ -38,11 +38,11 @@ window.onload = function() {
             var replyMessage = document.createElement('div');
             replyMessage.classList.add('chat-message');
             if (message === '请点击第一句获取游戏。') {
-                replyMessage.innerHTML = '<img src="bot-avatar.jpg" alt="Avatar"/><p>我用夸克网盘给你分享了「游戏获取」，点击链接或复制整段内容，打开「夸克APP」即可获取。/~a97b39j7PB~/ 链接：https://pan.quark.cn/s/7e0f147de338</p>';
+                replyMessage.innerHTML = '<img src="bot-avatar.jpg" alt="Avatar"/><p>我用夸克网盘给你分享了「游戏获取」，点击链接或复制整段内容，打开「夸克APP」即可获取。/~a97b39j7PB~/ 链接：https://pan.quark.cn/s/7e0f147de338</p>'提取码：CbCG;
             } else if (message === '请点击第二句获取安卓和电脑教程。') {
-                replyMessage.innerHTML = '<img src="bot-avatar.jpg" alt="Avatar"/><p>我用夸克网盘给你分享了「安卓和电脑教程」，点击链接或复制整段内容，打开「夸克APP」即可获取。/~754239j7Cf~/ 链接：https://pan.quark.cn/s/aba9d38300c0</p>';
+                replyMessage.innerHTML = '<img src="bot-avatar.jpg" alt="Avatar"/><p>我用夸克网盘给你分享了「安卓和电脑教程」，点击链接或复制整段内容，打开「夸克APP」即可获取。/~754239j7Cf~/ 链接：https://pan.quark.cn/s/aba9d38300c0</p>'提取码：a9hy;
             } else if (message === '请点击第三句获取ios教程。') {
-                replyMessage.innerHTML = '<img src="bot-avatar.jpg" alt="Avatar"/><p>我用夸克网盘给你分享了「ios教程」，点击链接或复制整段内容，打开「夸克APP」即可获取。/~66e839j7Pk~/ 链接：https://pan.quark.cn/s/e74f672e0db4</p>';
+                replyMessage.innerHTML = '<img src="bot-avatar.jpg" alt="Avatar"/><p>我用夸克网盘给你分享了「ios教程」，点击链接或复制整段内容，打开「夸克APP」即可获取。/~66e839j7Pk~/ 链接：https://pan.quark.cn/s/e74f672e0db4</p>'提取码：y2GU;
             } else {
                 replyMessage.innerHTML = '<img src="bot-avatar.jpg" alt="Avatar"/><p>请看前三句话。</p>';
             }

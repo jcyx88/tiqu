@@ -38,7 +38,7 @@ window.onload = function() {
             var replyMessage = document.createElement('div');
             replyMessage.classList.add('chat-message');
             if (message === '请点击第一句获取游戏。') {
-                replyMessage.innerHTML = '<img src="bot-avatar.jpg" alt="Avatar"/><p>我用夸克网盘给你分享了「安卓和电脑教程」，点击链接或复制整段内容，打开「夸克APP」即可获取。/~ffd339qB7A~:/链接：https://pan.quark.cn/s/8ab5938c6c1b?pwd=gNL2</p>';
+                replyMessage.innerHTML = '<img src="bot-avatar.jpg" alt="Avatar"/><p>我用夸克网盘给你分享了「游戏获取」，点击链接或复制整段内容，打开「夸克APP」即可获取。/~a37939qChN~:/链接：https://pan.quark.cn/s/6cc71b4379a7?pwd=scx7</p>';
             } else if (message === '请点击第二句获取安卓和电脑教程。') {
                 replyMessage.innerHTML = '<img src="bot-avatar.jpg" alt="Avatar"/><p>我用夸克网盘给你分享了「安卓和电脑教程」，点击链接或复制整段内容，打开「夸克APP」即可获取。/~754239j7Cf~/ 链接：https://pan.quark.cn/s/aba9d38300c0提取码：a9hy</p>';
             } else if (message === '请点击第三句获取ios教程。') {
